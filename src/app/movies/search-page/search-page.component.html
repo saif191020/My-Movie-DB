@@ -1,0 +1,5 @@
+<div class="search-result" *ngIf="movies">
+    <div class="movies" *ngFor="let movie of movies.Search">
+        <app-movie-card class='card-layout' [movie]="movie"></app-movie-card>
+    </div>
+</div>
