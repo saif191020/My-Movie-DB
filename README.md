@@ -1,5 +1,15 @@
 # MyMovieDb
 
+# WORK IN PROGRESS 🚧🛠️
+
+## what this project will do.
+
+This is a watch list tracker. it will be able to search omdb service and add it your local json server based db
+
+    * Supports movies and tv show
+
+    * Store User ratings
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
 ## Development server
